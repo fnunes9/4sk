@@ -10,7 +10,8 @@ Nos divertir aprendendo;
 Estimular o desenvolvimento mental e raciocínio lógico;
 Detecção e resolução de problemas;
 
-*Cronograma*
+*Cronograma*;
+
 ![image](https://user-images.githubusercontent.com/90286315/142337191-031694d5-e00b-43a3-8f9a-de549ee43bbf.png)
 
 
