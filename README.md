@@ -11,7 +11,8 @@ Estimular o desenvolvimento mental e raciocínio lógico;
 Detecção e resolução de problemas;
 
 *Cronograma*
-https://app.brmodeloweb.com/#!/logic/%7B%22modelid%22:%226195a4a2ea88ec0034015ef2%22,%22conversionId%22:%22%22%7D
+![image](https://user-images.githubusercontent.com/90286315/142337191-031694d5-e00b-43a3-8f9a-de549ee43bbf.png)
+
 
 
 
