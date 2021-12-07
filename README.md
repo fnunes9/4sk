@@ -1,7 +1,12 @@
-<h1>4skProject</h1>
+<div>
+<img src="https://user-images.githubusercontent.com/89430780/145102729-01a091c5-5f23-4b03-9aa2-12e40d4dd44f.png" idth="100px" />
 
-#### Desenvolvimento do game 4sk por alunos dos cursos de Tecnologia da Informação do Centro Universitário Una;
-> Status: Em desenvolvimento.
+
+  
+  > ### Teste suas habilidades! 👾
+
+#### - Desenvolvimento do game 4sk por alunos dos cursos de Tecnologia da Informação do Centro Universitário Una;
+> Status: Em desenvolvimento. 🚩
 
 **Objetivo do programa:**
 
